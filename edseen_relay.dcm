@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SUNHOLD_RAS_Form_C
+D SUN HOLD relay, RAS Series
+K Relay RAS SUN HOLD
+F http://www.sunhold.com/upload/prd1/118-3.pdf
+$ENDCMP
+#
+#End Doc Library
