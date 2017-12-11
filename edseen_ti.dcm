@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MSP430F2370
+D Texas Instruments MSP430F2370 
+K MSP430F2370
+F http://www.ti.com/lit/ds/symlink/msp430f2370.pdf
+$ENDCMP
+#
+#End Doc Library
